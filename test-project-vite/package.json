@@ -41,7 +41,7 @@
     "pinia": "^2.0.32",
     "quasar": "^2.11.6",
     "vue": "^3.2.47",
-    "vue-i18n": "^9.0.0",
+    "vue-i18n": "^11.4.14",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
